@@ -1,0 +1,55 @@
+---
+title:  Software Engineer (Data Operations)
+company:  Autumn Compass
+url: https://www.autumncompass.com/careers
+location: Sydney, Australia / Remote
+          # Choose one of the following options
+contract: Permanent
+contact:
+    name: Christopher Byron
+    email: cbyron@autumncompass.com
+    phone: 0455 455 699
+    # <additional contact fields>: <additional value>
+created: !!timestamp 2020-09-01
+tags:
+  - python
+  - AWS
+  - DevOps
+  # include relevant tags
+---
+
+# About The Role
+We are looking for an experienced Software Engineer, specifically a Site Reliability Engineer (SRE) to join the Data Platforms and Data Operations team at Autumn Compass. In the Site Reliability Engineer role you will be working with our cloud distributed compute infrastructure which powers our trading research. This platform forms a foundational component of our business and so it is important we are able to keep it performant, reliable and flexible.
+
+Autumn Compass is a proprietary trading company that uses modern techniques from software engineering and machine learning in order to develop intelligent algorithms and strategies for trading. With no external clients and a culture of devops, you will work with the team through the entire lifecycle of our platform’s new features, from design to release and post rollout maintenance, specialising as a Software Engineer in the Data Operations division.
+
+Remote applications are welcome, please keep in mind that the work hours need to line up with Sydney time.
+
+### Salary: $110k - $170k package
+
+
+## Software Engineer (Data Operations) Responsibilities:
+ * Ensuring our compute infrastructure is reliable, fault-tolerant and can scale across 1000s of compute systems.
+ * Building in flexibility to our systems to try new ideas at minimal cost in time and technical load (I.e. have the ability to fail fast when experimenting)
+ * Evolving our systems to improve robustness and correctness through the use of new technology, automation and simplification.
+ * Leading our team’s approach to devops by developing our philosophy and bringing our approach in line with best practices.
+ * Willingness to challenge the status quo to bring new ideas and innovation to the team.
+ 
+## Software Engineer (Data Operations) Profile:
+* 3+ years of experience working in a DevOps/SRE team.
+* Development experience in Python (or a similar language) and a willingness to work with Python infrastructure.
+* Knowledge of best practice in DevOps and the interest to stay on top of the changes in the space
+* Expertise in designing, architecting, and troubleshooting large-scale distributed systems.
+* Systematic problem-solving approach, coupled with effective communication skills and a sense of drive.
+* Understanding of Unix/Linux operating systems.
+* Experience with the AWS stack is desirable
+
+## Perks:
+
+* Infrastructure is important but non-critical (with a large error budge) so no on-call required.
+* Flexible work hours
+* Breakfast, lunch, snacks, groceries and daily coffee all provided
+* Pool table, ping pong table, console and board games
+* Flat management structure, report to the CTO
+* Towel service and showers provided
+* Central CBD location (next to Fitness First gym)
